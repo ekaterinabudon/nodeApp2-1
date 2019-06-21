@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "20190621_132936",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
